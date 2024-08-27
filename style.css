@@ -188,6 +188,7 @@ nav ul li a:hover {
         max-height: 70%;
         max-width: 90%;
         position: absolute;
+        pointer-events: none;
     }
 
     #poema h2 {
