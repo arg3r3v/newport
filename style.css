@@ -214,6 +214,7 @@ a-scene {
     z-index: 999;
     padding: 10px;
     border-radius: 8px;
+    pointer-events: none;
 }
 
 #poema h2 {
